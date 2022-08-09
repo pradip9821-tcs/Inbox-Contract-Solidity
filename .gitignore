@@ -1,0 +1,15 @@
+# node_modules
+/node_modules
+/package-lock.json
+
+# Env
+.env
+
+# Other
+/.DS_Store
+
+# Testing address
+Address.txt
+
+# Next.js file
+.next
